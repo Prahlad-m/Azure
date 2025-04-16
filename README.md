@@ -2,12 +2,6 @@
 
 # ☁️ Cloud Computing & Azure Workbook – Week 4
 
-**Course**: Data Technician  
-**Week**: 4  
-**Focus**: Cloud Computing Concepts, Azure Services, Data Regulations, and Real-World Applications
-
----
-
 ## 🌐 Overview
 
 This workbook explores foundational cloud computing concepts, key legislation, and hands-on labs with Microsoft Azure. It includes both theoretical understanding and practical implementation, especially around data handling, Azure services, and compliance.
@@ -107,10 +101,3 @@ These labs covered:
 - Ensuring compliance with data laws
 - Structuring and analysing data in cloud environments
 - Collaboration on labs and case-based planning
-
----
-
-> **Author**: Prahlad Mistry  
-> **Course**: Data Technician – Week 4  
-> **Tools Used**: Microsoft Azure, Microsoft Learn Labs, Gov.uk legal resources  
-> **Submitted via**: MS Teams
