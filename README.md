@@ -64,7 +64,7 @@ These labs covered:
 
 #### 🧪 DP-900 Practice Exam  
 - Attempted individually
-- Score: **66, 72**
+- Score: **66, 72, 86**
 
 ---
 
